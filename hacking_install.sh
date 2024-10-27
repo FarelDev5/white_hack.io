@@ -6,7 +6,7 @@ figlet -f slant "HACKING_TOOLS"
 echo -e "\e[0m"     # Reset warna ke default
 
 # Menambahkan Aktor dan Informasi dengan Warna
-echo -e "Pebuat: Farel Alfareza"  # Warna hijau
+echo -e "Pembuat: Farel Alfareza"  # Warna hijau
 echo -e "Instagram & TikTok: @farel.project_5"  # Warna kuning
 
 
